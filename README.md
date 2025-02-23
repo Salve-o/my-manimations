@@ -1,6 +1,6 @@
 # my-manimations
 
-Repository dedicated to my animations created with the Manim library. Here you'll find code and videos of mathematical and physical visualizations.
+Repository dedicated to my animations created with the Manim library after 23/02/25. Here you'll find code and videos of mathematical and physical visualizations.
 
 ## Repository structure
 
